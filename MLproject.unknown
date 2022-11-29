@@ -1,0 +1,7 @@
+name: Nexus
+
+conda_env: Nexus.yaml
+
+entry_points:
+  main:
+    command: "python WindPrediction.py"
